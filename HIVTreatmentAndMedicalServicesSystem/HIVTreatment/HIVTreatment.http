@@ -1,0 +1,6 @@
+@HIVTreatment_HostAddress = http://localhost:5116
+
+GET {{HIVTreatment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
